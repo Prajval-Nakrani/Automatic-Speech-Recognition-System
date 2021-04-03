@@ -1,4 +1,4 @@
-# Automatic-Speech-Recognition-System
+# Automatic Speech Recognition System
 
 An Automatic Speech Recognition System built for 10 different words using MFCC feature extraction and Vector Quantization Codebook Matching.
 
